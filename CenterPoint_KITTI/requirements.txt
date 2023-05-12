@@ -9,3 +9,5 @@ tqdm
 # mayavi
 pytest
 pyqt5
+open3d
+pynput

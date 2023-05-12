@@ -18,6 +18,4 @@ spconv/
 *.pth
 pcdet/
 dist/
-OpenPCDet/
-output/
 pcdet.egg-info/
